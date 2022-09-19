@@ -7,7 +7,7 @@ public class C04_ExplicitNarrowing {
         System.out.println(sayi2); // 50
         /*
          Genis data turundeki degeri, dar data turundeki variable'a atamak isterseniz
-         Java sizin genis data turundeki degerin, dar data turunun
+         Java sizin gen  is data turundeki degerin, dar data turunun
          sinirlarina uyup uymayacagini calistirana kadar bilemez
          ama Java Risk almaz
          Riski sifira indirmek icin burada bir sorun olursa
