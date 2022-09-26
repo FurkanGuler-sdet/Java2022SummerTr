@@ -15,9 +15,21 @@ public class deneme    {
         System.out.println("short 129un byte karşılığı:" + h);
 
         byte max=Byte.MAX_VALUE;
-        System.out.println(max);
+         System.out.println(max);
 
 
+
+        String str = "java";
+        System.out.println(str.toUpperCase());
+
+        int sayı1=20;
+        System.out.println(Integer.MAX_VALUE);
+        System.out.println(Integer.MIN_VALUE);
+
+        String str1="1234";
+        String str2="2000";
+        System.out.println(str1+str2);
+        System.out.println(Integer.valueOf(str1)+Integer.valueOf(str2));
 
 
 
